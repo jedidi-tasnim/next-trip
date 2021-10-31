@@ -6,7 +6,7 @@ a=16;
 b=3;
 printf("\n a=%d  b=%D",a,b);
 
-
+//fakher commit
 
 
 
